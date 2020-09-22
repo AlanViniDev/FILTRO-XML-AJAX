@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TABLE>
+
+<VEICULOS>
+<MARCA>Honda</MARCA>
+<MODELO>Civic</MODELO>
+<CAMINHO>imagens/veiculos/honda-civic.jpg</CAMINHO>
+</VEICULOS>
+
+<VEICULOS>
+<MARCA>Toyota</MARCA>
+<MODELO>Corolla</MODELO>
+<CAMINHO>imagens/veiculos/toyota-corolla.jpg</CAMINHO>
+</VEICULOS>
+
+<MOTOCICLETAS>
+<MARCA>Honda</MARCA>
+<MODELO>CB 600F Hornet</MODELO>
+<CAMINHO>imagens/motociletas/honda-hornet.jpg</CAMINHO>
+</MOTOCICLETAS>
+
+<MOTOCICLETAS>
+<MARCA>Yamaha</MARCA>
+<MODELO>YZF-R1</MODELO>
+<CAMINHO>imagens/motociletas/yamaha-r1.jpg</CAMINHO>
+</MOTOCICLETAS>
+
+</TABLE>
