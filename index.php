@@ -56,7 +56,6 @@ $(document).ready(function() {
 /* DOM */
 parser = new DOMParser();
 
-
 document.getElementById("veiculos").onchange = function() {
 
     // Responsavel por capturar o value do select.
