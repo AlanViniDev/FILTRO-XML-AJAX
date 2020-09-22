@@ -42,13 +42,19 @@ var parser, xmlDoc;
 
 // Requisição ajax no arquivo XML.
 $(document).ready(function() {
+    
     $.ajax({
         type: 'POST',
         dataType: 'html',
         url: 'veiculos.xml',
         success: function (resultado) {
+            
+            // Atribui o resultado da requisição a variavel global.
             resultadoxml = resultado;
+            
+            //converte o resultado da requisição para string
             xmlDoc = parser.parseFromString(resultadoxml,"text/xml");
+         
         }
     });
 });
