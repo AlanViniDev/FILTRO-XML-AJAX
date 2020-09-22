@@ -34,7 +34,7 @@
 <!-- JavaScript -->
 <script type = "text/javascript">
 
-// Variavel gloval. Necessária  para capturar o valor xml retornado no ajax.
+// Variavel gloabal. Necessária  para capturar o valor xml retornado no ajax.
 var resultadoxml;
 
 // Variaveis para trabalhar com DOM.
