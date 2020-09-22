@@ -23,7 +23,7 @@
         <option value = "4">Yamaha YZF-R1</option>
     </select>
     
-    <!-- Resultado filtro motocicletas -->
+    <!-- Resultado filtro -->
     <div id = "marca"></div>
     <div id = "modelo"></div>
     <img id = "imagem"/>
